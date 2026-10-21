@@ -1,4 +1,4 @@
-# 🩺 MammoAI: Multimodal Breast Cancer Detection & Explainable Decision Support System
+# 🩺 Multimodal Breast Cancer Detection & Explainable Decision Support System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
